@@ -1,11 +1,12 @@
 class Person
   
-  def Person
-    @Person
+  def name
+    @name
   end
   
-  def Person=(Person)
-    @Person=
+  def name=(name)
+    @name=name
+  end
 
-
+  def 
 end
