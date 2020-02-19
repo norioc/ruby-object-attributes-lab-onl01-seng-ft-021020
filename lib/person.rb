@@ -1,7 +1,11 @@
 class Person
   
-  def person
-
+  def Person
+    @Person
+  end
+  
+  def Person=(Person)
+    @Person=
 
 
 end
